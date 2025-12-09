@@ -8,3 +8,7 @@
 ### Day 2
 - Python conditions & loops
 - Practice 5 beginner coding problems
+
+### Day 3
+- Python functions + modular programming
+- Practice 5 additional problems
