@@ -12,3 +12,7 @@
 ### Day 3
 - Python functions + modular programming
 - Practice 5 additional problems
+
+### Day 4
+- Begin SQL fundamentals (CREATE, SELECT, UPDATE, INSERT)
+
