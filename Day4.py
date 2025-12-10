@@ -28,6 +28,9 @@ print(rows)
 8. Close the connection
 conn.close()
 """
+
+# ICCECOC - o=OPERATION
+
 import sqlite3
 
 # 1. connect
