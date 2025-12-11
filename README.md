@@ -16,3 +16,5 @@
 ### Day 4
 - Begin SQL fundamentals (CREATE, SELECT, UPDATE, INSERT)
 
+### Day 5
+- SQL filtering and retrieval(WHERE, ORDER BY ,LIKE)
