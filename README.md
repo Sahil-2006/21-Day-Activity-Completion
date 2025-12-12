@@ -18,3 +18,6 @@
 
 ### Day 5
 - SQL filtering and retrieval(WHERE, ORDER BY ,LIKE)
+
+### Day 6
+- Practice 10 SQL queries from real-world scenarios
