@@ -21,3 +21,8 @@
 
 ### Day 6
 - Practice 10 SQL queries from real-world scenarios
+
+### Day 7
+- Updating Class Notes
+- Refining Linkdin(Added new Sections) + Github Profiles(Eploring new ideas to make github profile much more refined)
+- Self Learning (Diving deep into js fundamentals and exploring new project ideas)
